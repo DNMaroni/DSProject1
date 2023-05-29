@@ -1,7 +1,7 @@
 # Projeto de Data Science - UPF 2023/01
 ## Objetivo do projeto
 
-À partir de um dataset com N dados sobre notas de alunos, o objetivo do projeto é descobrir de existe relação entre a escolaridade de pais e a nota de seus filhos.
+À partir de um dataset com N dados sobre notas de alunos, o objetivo do projeto é descobrir se existe relação entre a escolaridade de pais e a nota de seus filhos.
 
 
 
