@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
-data = pd.read_csv('/content/sample_data/StudentsPerformance.csv')
+data = pd.read_csv('StudentsPerformance.csv')
 
 df_selected = data[['parental level of education', 'math score', 'reading score', 'writing score']]
 
